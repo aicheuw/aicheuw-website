@@ -65,19 +65,19 @@ title = "AIChE-UW"
     weight = 2
 
   [[menu.main]]
-    name = "Services"
-    url = "/services/"
-    weight = 3
-
-  [[menu.main]]
     name = "Past Events"
     url = "/events/"
     weight = 4
 
   [[menu.main]]
+    name = "Resources"
+    url = "/resources/"
+    weight = 5
+
+  [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 5
+    weight = 6
 
   # Footer Menu
   [[menu.footer]]
