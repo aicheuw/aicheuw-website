@@ -19,11 +19,11 @@ title = "AIChE-UW"
     show_services_button = false # show / hide the "view all services" button
 
   [params.logo]
-    mobile = "images/logo/logo-mobile.svg"
+    mobile = "images/logo/aiche-logo.svg"
     mobile_height = "36px"
-    desktop = "images/logo/logo.svg"
+    desktop = "images/logo/aiche-logo.svg"
     desktop_height = "36px"
-    alt = "Serif - A Hugo Business Theme"
+    alt = "AIChE-UW"
 
   [params.fonts]
     # sets the google font link in layouts/partials/google-fonts.html
@@ -32,7 +32,7 @@ title = "AIChE-UW"
     base = "Source Sans Pro"
 
   [params.colors]
-    primary = "#f24088"
+    primary = "#4b2e83"
     black = "#2f2f41"
     white = "#ffffff"
     white_offset = "#f6f7ff"
@@ -41,22 +41,22 @@ title = "AIChE-UW"
   [params.seo]
     meta_twitter_site = ""
     meta_twitter_creator = ""
-    meta_og_image = "https://www.zerostatic.io/theme/hugo-serif/hugo-serif-screenshot.png"
+    meta_og_image = ""
 
   [params.services]
-    summary_truncate = 120 # How many characters to include in the summary of the services before truncating
+    summary_truncate = 10000 # How many characters to include in the summary of the services before truncating
 
   [params.team]
-    summary_large_truncate = 120 # How many characters to include in the summary of the team bios (large layout) before truncating
+    summary_large_truncate = 10000 # How many characters to include in the summary of the team bios (large layout) before truncating
 
   [params.footer]
-    copyright_text = 'Free Hugo theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+    copyright_text = 'American Institute of Chemical Engineers at the University of Washington (AIChE-UW)'
 
 [menu]
   # Main Menu
   [[menu.main]]
-    name = "Services"
-    url = "/services/"
+    name = "About"
+    url = "/about/"
     weight = 1
 
   [[menu.main]]
@@ -65,14 +65,19 @@ title = "AIChE-UW"
     weight = 2
 
   [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Services"
+    url = "/services/"
     weight = 3
+
+  [[menu.main]]
+    name = "Past Events"
+    url = "/events/"
+    weight = 4
 
   [[menu.main]]
     name = "Contact"
     url = "/contact/"
-    weight = 4
+    weight = 5
 
   # Footer Menu
   [[menu.footer]]
