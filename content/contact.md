@@ -16,4 +16,4 @@ Box 351750 \
 3781 Okanogan Lane NE \
 Seattle, WA, 98195-1750
 
-![Benson Hall Map](/benson-hall-map.png)
+![Benson Hall Map](/images/benson-hall-map.png)
