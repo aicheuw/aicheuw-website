@@ -1,9 +1,10 @@
 ---
-title: "Name2"
+title: "Sarina Vafa"
 date: 2022-09-29T00:00:00+00:00
 draft: false
 image: "images/team/junior-representative-2.jpg"
 jobtitle: "Junior Representative"
+promoted: true
 weight: 102
 ---
 
