@@ -6,7 +6,7 @@ title: 'Past Officers'
 
 |Position|Name|Linkedin|
 |-:|:-|-|
-|Faculty Advisor|Julie Rorror|[Link](https://www.linkedin.com/in/julie-rorrer-b1219180/)|
+|Faculty Advisor|Julie Rorrer|[Link](https://www.linkedin.com/in/julie-rorrer-b1219180/)|
 |President|Megan Wong|[Link](https://www.linkedin.com/in/wongmeg/)|
 |Vice President|Sarina Vafa|[Link](https://www.linkedin.com/in/sarinavafa/)|
 |Social Chair|Keemia Mohammadi|[Link](https://www.linkedin.com/in/keemia-mohammadi/)|
