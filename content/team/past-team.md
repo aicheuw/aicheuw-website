@@ -16,6 +16,9 @@ title: 'Past Officers'
 |Outreach Chair|Celine Xu|[Link](https://www.linkedin.com/in/celine-jiayi-xu/)|
 |Fundraising Chair|Keemia Mohammadi|[Link](https://www.linkedin.com/in/keemia-mohammadi/)|
 |Webmaster|Frances Yih|[Link](https://www.linkedin.com/in/fyih/)|
+|Junior Representative|Maddy Hernandez|[Link](https://www.linkedin.com/in/madeline-gabriela-hernandez-a52591226/)|
+|Junior Representative|Kyla Yamamoto|[Link](https://www.linkedin.com/in/kyla-yamamoto-50019427b/)|
+|Junior Representative|Rhea Kulkarni||
 
 ## 2022-2023 Officers
 
