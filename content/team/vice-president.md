@@ -1,5 +1,5 @@
 ---
-title: "Catherine Do"
+title: "Sarina Vafa"
 date: 2022-09-29T00:00:00+00:00
 draft: false
 image: "images/team/vice-president.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "Mel Lai"
+title: "Rhea Kulkarni"
 date: 2022-09-29T00:00:00+00:00
 draft: false
 image: "images/team/junior-representative-3.jpg"

@@ -1,5 +1,5 @@
 ---
-title: "Mansi Gokani"
+title: "Megan Wong"
 date: 2022-09-29T00:00:00+00:00
 draft: false
 image: "images/team/president.jpg"
