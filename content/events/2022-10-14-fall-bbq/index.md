@@ -8,7 +8,7 @@ AIChE is hosting the Fall BBQ serving food, drinks, and fun games. Join us at Be
 - Date: Oct 14, 2022
 - Location: Benson Patio
 
-The Spring BBQ was a blast! Hope everyone had a great time!
+The Fall BBQ was a blast! Hope everyone had a great time!
 
 ![](2022-10-14-fall-bbq-1.jpeg)
 ![](2022-10-14-fall-bbq-2.jpeg)
