@@ -1,5 +1,5 @@
 ---
-title: '2023 Benson Treat n' Greet'
+title: '2024 Gore Info Session'
 date: 2024-02-12T00:00:00+00:00
 ---
 
