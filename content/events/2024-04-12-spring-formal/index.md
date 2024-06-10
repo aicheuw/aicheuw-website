@@ -10,6 +10,6 @@ Great weather, music, views, and a great cross-department social!
 - Date: April 12th, 2024
 - Location: UW Tower
 
-![](formal-1.jpg)
+![](formal-1.png)
 
 
