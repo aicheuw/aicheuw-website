@@ -1,5 +1,5 @@
 ---
-title: '2024 AIChE @ WChE's Introduce a Girl'
+title: '2024 AIChE @ WChE Introduce a Girl'
 date: 2024-02-10T00:00:00+00:00
 ---
 
