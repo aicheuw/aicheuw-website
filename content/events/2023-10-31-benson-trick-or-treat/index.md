@@ -1,6 +1,6 @@
 ---
 title: '2023 Benson Treat n Greet'
-date: 2022-10-12T00:00:00+00:00
+date: 2023-10-31T00:00:00+00:00
 ---
 
 UW ChemE goes trick or treating! Halloween costumes, candy, and meeting your chemE staff, faculty, and fellow students!
