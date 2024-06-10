@@ -12,7 +12,7 @@ title: 'Past Officers'
 |Social Chair|Lauren Boys|[Link](https://www.linkedin.com/in/lauren-boys-8811a5297/)|
 |Treasurer|Nicole Huang|[Link](https://www.linkedin.com/in/nicole-huang-680b04228/)|
 |Secretary|Abby Mapili|[Link](https://www.linkedin.com/in/abby-mapili-016092228/)|
-|Professional Chair|Lauren Ellis|(https://www.linkedin.com/in/laurenellis2026/)|
+|Professional Chair|Lauren Ellis|[Link](https://www.linkedin.com/in/laurenellis2026/)|
 |Outreach Chair|Kyla Yamamoto|[Link](https://www.linkedin.com/in/kyla-yamamoto-50019427b/)|
 |Webmaster|Rhea Kulkarni|[Link](https://www.linkedin.com/in/rheak80a368134/)|
 
