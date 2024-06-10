@@ -8,13 +8,13 @@ title: 'Past Officers'
 |-:|:-|-|
 |Faculty Advisor|Julie Rorrer|[Link](https://www.linkedin.com/in/julie-rorrer-b1219180/)|
 |President|Maddy Hernandez|[Link](https://www.linkedin.com/in/madeline-gabriela-hernandez-a52591226/)|
-|Vice President|Sarina Vafa|[Link](https://www.linkedin.com/in/sarinavafa/)|
-|Social Chair|Keemia Mohammadi|[Link](https://www.linkedin.com/in/keemia-mohammadi/)|
-|Treasurer|Jack Pereira|[Link](https://www.linkedin.com/in/jackpereira0/)|
+|Vice President|
+|Social Chair|
+|Treasurer|
 |Secretary|Kyla Yamamoto|[Link](https://www.linkedin.com/in/kyla-yamamoto-50019427b/)|
-|Professional Chair|Garrett Wattawa|[Link](https://www.linkedin.com/in/garrett-wattawa/)|
-|Outreach Chair|Celine Xu|[Link](https://www.linkedin.com/in/celine-jiayi-xu/)|
-|Fundraising Chair|Keemia Mohammadi|[Link](https://www.linkedin.com/in/keemia-mohammadi/)|
+|Professional Chair|
+|Outreach Chair|
+|Fundraising Chair|
 |Webmaster|Rhea Kulkarni||
 
 ## 2023-2024 Officers
