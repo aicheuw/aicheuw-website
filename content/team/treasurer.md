@@ -1,5 +1,5 @@
 ---
-title: "Jack Pereira"
+title: "Nicole Huang"
 date: 2022-09-29T00:00:00+00:00
 draft: false
 image: "images/team/treasurer.jpg"

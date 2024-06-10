@@ -8,14 +8,13 @@ title: 'Past Officers'
 |-:|:-|-|
 |Faculty Advisor|Julie Rorrer|[Link](https://www.linkedin.com/in/julie-rorrer-b1219180/)|
 |President|Maddy Hernandez|[Link](https://www.linkedin.com/in/madeline-gabriela-hernandez-a52591226/)|
-|Vice President|
-|Social Chair|
-|Treasurer|
-|Secretary|Kyla Yamamoto|[Link](https://www.linkedin.com/in/kyla-yamamoto-50019427b/)|
-|Professional Chair|
-|Outreach Chair|
-|Fundraising Chair|
-|Webmaster|Rhea Kulkarni||
+|Vice President|Naomi Kern|[Link](https://www.linkedin.com/in/naomi-kern/)|
+|Social Chair|Lauren Boys|[Link](https://www.linkedin.com/in/lauren-boys-8811a5297/)|
+|Treasurer|Nicole Huang|[Link](https://www.linkedin.com/in/nicole-huang-680b04228/)|
+|Secretary|Abby Mapili|[Link](https://www.linkedin.com/in/abby-mapili-016092228/)|
+|Professional Chair|Lauren Ellis|(https://www.linkedin.com/in/laurenellis2026/)|
+|Outreach Chair|Kyla Yamamoto|[Link](https://www.linkedin.com/in/kyla-yamamoto-50019427b/)|
+|Webmaster|Rhea Kulkarni|[Link](https://www.linkedin.com/in/rheak80a368134/)|
 
 ## 2023-2024 Officers
 

@@ -1,5 +1,5 @@
 ---
-title: "Celine Xu"
+title: "Kyla Yamamoto"
 date: 2022-09-29T00:00:00+00:00
 draft: false
 image: "images/team/outreach-chair.jpg"

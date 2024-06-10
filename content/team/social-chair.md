@@ -1,5 +1,5 @@
 ---
-title: "Keemia Mohammadi"
+title: "Lauren Boys"
 date: 2022-09-29T00:00:00+00:00
 draft: false
 image: "images/team/social-chair.jpg"
