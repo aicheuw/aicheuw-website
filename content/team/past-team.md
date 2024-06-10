@@ -2,7 +2,7 @@
 title: 'Past Officers'
 ---
 
-## 2023-2024 Officers (Current)
+## 2024-2025 Officers (Current)
 
 |Position|Name|Linkedin|
 |-:|:-|-|
@@ -17,7 +17,7 @@ title: 'Past Officers'
 |Fundraising Chair|Keemia Mohammadi|[Link](https://www.linkedin.com/in/keemia-mohammadi/)|
 |Webmaster|Rhea Kulkarni||
 
-## 2023-2024 Officers (Current)
+## 2023-2024 Officers
 
 |Position|Name|Linkedin|
 |-:|:-|-|
