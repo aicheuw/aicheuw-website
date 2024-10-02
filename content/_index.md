@@ -5,6 +5,7 @@ date: 2022-09-29T00:00:00+00:00
 intro_image: "images/team/aiche-team-2.jpg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
+"New website: https://sites.google.com/view/aicheuw/home"
 ---
 
 # AIChE-UW
