@@ -7,4 +7,5 @@ intro_image_absolute: false
 intro_image_hide_on_mobile: true
 ---
 
-# AIChE-UW --> "New website: https://sites.google.com/view/aicheuw/home"
+# AIChE-UW
+"New website: https://sites.google.com/view/aicheuw/home"
